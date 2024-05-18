@@ -1,2 +1,21 @@
 [submodule "lab-i-camunda"]
+	path = lab-i-camunda
 	url = https://github.com/dansotirakis/lab-i-camunda.git
+[submodule "lab-camunda-cawemo"]
+	path = lab-camunda-cawemo
+	url = https://github.com/dansotirakis/lab-camunda-cawemo.git
+[submodule "lab-camunda-engine-ee"]
+	path = lab-camunda-engine-ee
+	url = https://github.com/dansotirakis/lab-camunda-engine-ee.git
+[submodule "lab-camunda-optimize"]
+	path = lab-camunda-optimize
+	url = https://github.com/dansotirakis/lab-camunda-optimize.git
+[submodule "lab-java-camunda-engine"]
+	path = lab-java-camunda-engine
+	url = https://github.com/dansotirakis/lab-java-camunda-engine.git
+[submodule "lab-java-camunda-et"]
+	path = lab-java-camunda-et
+	url = https://github.com/dansotirakis/lab-java-camunda-et.git
+[submodule "lab-w-camunda"]
+	path = lab-w-camunda
+	url = https://github.com/dansotirakis/lab-w-camunda.git
